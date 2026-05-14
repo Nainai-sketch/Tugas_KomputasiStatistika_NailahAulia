@@ -1,0 +1,12 @@
+# Tugas Komputasi Statistika
+# Contoh syntax sederhana di R
+
+print("Halo Dunia")
+
+x <- c(2, 4, 6, 8, 10)
+
+mean(x)
+
+summary(x)
+
+hist(x)
